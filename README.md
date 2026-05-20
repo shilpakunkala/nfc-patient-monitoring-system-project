@@ -244,28 +244,53 @@ Hospital staff monitor patient details
 ---
 
 # 📸 Project Screenshots
+# 📸 Project Screenshots
 
-## Dashboard
+## Login Page
 
-![Dashboard](screenshots/dashboard.png)
-
----
-
-## PostgreSQL Database
-
-![Database](screenshots/pgadmin.png)
+![Login Page](screenshots/login%20page.png)
 
 ---
 
-## Serial Monitor Output
+## Patient Registration
 
-![Serial Monitor](screenshots/serial-monitor.png)
+![Patient Register](screenshots/new%20register.png)
+
+---
+
+## Ready To Scan
+
+![Ready Scan](screenshots/ready%20to%20scan.png)
+
+---
+
+## Patient Details with Timestamp
+
+![Patient Details](screenshots/patient%20details%20with%20ti.png)
+
+---
+
+## Emergency Alert
+
+![Emergency Alert](screenshots/emergency%20alert.png)
+
+---
+
+## PostgreSQL Table
+
+![Database](screenshots/pgadmin%20table.png)
 
 ---
 
 ## Hardware Setup
 
-![Hardware](screenshots/hardware-setup.jpg)
+![Hardware](screenshots/hardware.jpg)
+
+---
+
+## Schematic Diagram
+
+![Schematic Diagram](screenshots/schematic%20diagram.png)
 
 ---
 
