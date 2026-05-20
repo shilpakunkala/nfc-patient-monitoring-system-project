@@ -76,12 +76,11 @@ const pool = new Pool({
   user:     'postgres',
   host:     'localhost',
   database: 'abcde_db',
-  password: 'YOUR_PASSWORD',   // ← change this
-  port:     5434,              // ← change if needed
+  password: 'YOUR_PASSWORD',   
+  port:     5434,              
 });
 ```
 
-> ⚠️ **Never commit real passwords to GitHub.** Use environment variables (see Security section below).
 
 ### 4. Run the Server
 
@@ -174,18 +173,4 @@ Nurse sees vitals, meds, treatments instantly
 
 ---
 
-## 📸 Screenshots
 
-> *(Add screenshots of your dashboard here after uploading)*
-
----
-
-## 📄 License
-
-This project is for educational and hospital demonstration purposes.
-
----
-
-## 🙋 Author
-
-Made with ❤️ for smart healthcare automation.
